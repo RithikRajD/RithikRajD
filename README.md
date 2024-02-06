@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @RithikRajD
 - 👀 I’m interested in Data Science and Machine Learning
-- 🌱 I’m currently learning Full Stack DataScience Course from AlmaBetter
 - 📫 How to reach me 
 - Mail - d.rithik.raj.27@gmail.com
 - Linkedin - https://www.linkedin.com/in/d-rithik-raj-b88436216/
